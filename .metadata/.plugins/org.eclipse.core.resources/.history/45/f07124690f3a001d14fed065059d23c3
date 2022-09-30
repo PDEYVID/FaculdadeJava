@@ -1,0 +1,24 @@
+package aula1_java;
+
+public class PrimeiroProgramar {
+
+	public static void main(String[] args) {
+		
+		int idade = 10;
+		double salario = 1200.0;
+		float preco = 22.00;
+		String nome = "Maria de souza";
+		char id = 's';
+		
+		int  x = 5;
+		int  y = 7;
+		int resultado = x * y ;
+		
+		
+		
+		System.out.println("Hello world");
+		System.out.println("Hello world 1");
+		System.out.println("Hello world 2");
+		System.out.println("Hello world 3");
+	}
+}

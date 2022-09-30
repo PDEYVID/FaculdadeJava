@@ -1,0 +1,20 @@
+package aula1_java;
+
+public class PrimeiroProgramar {
+
+	public static void main(String[] args) {
+
+		int idade = 10;
+		double salario = 1200.0;
+		float preco = 22.0f;
+		String nome = "Maria de souza";
+		char id = 's';
+
+		int x = 5;
+		int y = 7;
+		int resultado = x * y;
+
+		System.out.println(resultado);
+
+	}
+}

@@ -1,0 +1,39 @@
+
+		/* Tipos de Variáveis 
+		 
+		 * int     -> numeros inteiros 
+		 * double  -> subconjuntos de numeros reais
+		 * float   -> numeros com virgula
+		 * boolean -> verdairo ou falso
+		 * String  -> letras
+		 * char    -> id tipo de caracteres
+		
+		 declara variavies com o tipo primeiro int, char, etc....
+		<tipo><variavel> = <expressao>*/
+
+package tipos_de_variaveis;
+
+public class TiposVariaves {
+
+	public static void main(String[] args) {
+
+		
+		
+		int age = 26;
+		double wage = 1250.50;
+		float salaryEmployee = 12350.0f;
+		boolean ofAge = false;
+		boolean menoorDeIdade = true;
+		String fraseOuTexto = "teste";
+		char caracteres = 'a';
+		
+		
+		System.out.println("O valor do salario e: " + wage + age + salaryEmployee + ofAge);
+		
+		
+		
+		
+		
+
+	}
+}

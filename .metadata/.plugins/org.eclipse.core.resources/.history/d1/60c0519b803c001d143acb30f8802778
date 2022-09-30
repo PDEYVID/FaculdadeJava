@@ -1,0 +1,17 @@
+package one;
+
+public class Hello {
+
+	public static void main(String[] args) {
+		// Variavel de numeros inteiros e int:
+
+		int idade = 10;
+		int x = 5;
+		int y = 7;
+		int resultado = x * y;
+		
+		Sytem.out.println("Exemplo 1-> o valor de x*y é: ", resultado);
+
+	}
+
+}

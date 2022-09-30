@@ -1,0 +1,19 @@
+package tipos_de_variaveis;
+
+public class TiposVariaves {
+
+	public static void main(String[] args) {
+
+		/* Tipos de Variaves 
+		 
+		 * int     -> numeros inteiros 
+		 * double  -> subconjuntos de numeros reais
+		 * float   -> numeros com virgula
+		 * boolean -> verdairo ou falso
+		 * String  -> letras
+		 * char    -> id */
+		
+		
+
+	}
+}

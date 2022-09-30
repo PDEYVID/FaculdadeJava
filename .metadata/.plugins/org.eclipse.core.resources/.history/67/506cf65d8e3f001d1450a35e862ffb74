@@ -1,0 +1,23 @@
+package tipos_aritmetricos;
+
+public class OperadoresAritmetricos {
+	public static void main(String[] args) {
+		
+		/*
+		 * (+) -> somar
+		 * (-) -> diminuir
+		 * (*) -> multiplicação
+		 * (/) -> divisão
+		 * */
+
+		System.out.println("Operadore Aritmetricos");
+		
+		int x = 30;
+		int y = 13;
+		int i = 20;
+		
+		System.out.println(x + y + i);
+		
+	}
+
+}

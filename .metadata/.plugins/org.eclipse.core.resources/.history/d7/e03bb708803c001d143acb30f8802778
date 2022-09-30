@@ -1,0 +1,11 @@
+package one;
+
+public class Hello {
+	
+	public static void main (String[] args) {
+		//Variavel de numeros inteiros e int:
+		
+		
+	}
+
+}
